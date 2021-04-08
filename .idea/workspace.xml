@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96e71e84-1b5f-4d92-86f2-9dc7dd4d4f2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/WeatherAppExpo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WeatherAppExpo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +43,18 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1300" y="270" key="#Servers/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617797847910" />
-    <state x="-1553" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617801918315">
+    <state x="-1553" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617866654885">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1553" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617801918315" />
+    <state x="-1553" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617866654885" />
     <state x="-1261" y="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1617797855942">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1261" y="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617797855942" />
+    <state x="-1705" y="83" width="1200" height="800" key="AVDManager" timestamp="1617866921213">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1705" y="83" width="1200" height="800" key="AVDManager/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617866921213" />
     <state x="-1608" y="210" key="SettingsEditor" timestamp="1617798206661">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>

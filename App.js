@@ -37,6 +37,10 @@ export default function App() {
       const {
         coords: { latitude, longitude },
       } = await Location.getCurrentPositionAsync();
+      console.log(
+        "await Location.getCurrentPositionAsync(): ",
+        await Location.getCurrentPositionAsync()
+      );
       getWeather(latitude, longitude, API_KEYS);
       // console.log("location: ", location);
     } catch (error) {
